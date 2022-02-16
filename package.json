@@ -1,0 +1,26 @@
+{
+  "name": "interactive-window",
+  "version": "1.0.0",
+  "description": "The focus is to create a working application and learn at the same time",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigitalCursor1/Interactive-window.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DigitalCursor1/Interactive-window/issues"
+  },
+  "homepage": "https://github.com/DigitalCursor1/Interactive-window#readme",
+  "dependencies": {
+    "@nodegui/nodegui": "^0.46.0",
+    "eslint": "^8.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.18"
+  }
+}
